@@ -44,3 +44,18 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+
+From the Developer Noura Zaher
+           This a full backend system for shop owners and to run multiple shop and keep track of every shop alone.
+How to Download
+           1. Download the code as a zip file
+           2. Create project on your loacalhost name "oss"
+           3. import the sql to the project
+           4. run the project on any browser
+Languages Used
+           1. MySQL
+           2. PHP
+           3. HTML
+           4. CSS
+           5. Bootstrap
+           6. JavaScript
